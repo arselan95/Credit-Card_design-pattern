@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Root>
+    <Row>
+        <CardNumber>5410000000000000</CardNumber>
+        <Date>3/20/2030</Date>
+        <NameOfCardholder>Alice</NameOfCardholder>
+        <Issuer>M A S T E R - C A R D</Issuer>
+    </Row>
+    <Row>
+        <CardNumber>4120000000000</CardNumber>
+        <Date>4/20/2030</Date>
+        <NameOfCardholder>Bob</NameOfCardholder>
+        <Issuer>V I S A</Issuer>
+    </Row>
+    <Row>
+        <CardNumber>341000000000000</CardNumber>
+        <Date>5/20/2030</Date>
+        <NameOfCardholder>Eve</NameOfCardholder>
+        <Issuer>A M E R I C A N   E X P R E S S</Issuer>
+    </Row>
+    <Row>
+        <CardNumber>6010000000000000</CardNumber>
+        <Date>6/20/2030</Date>
+        <NameOfCardholder>Richard</NameOfCardholder>
+        <Issuer>TYPE DOES NOT MATCH</Issuer>
+    </Row>
+</Root>
